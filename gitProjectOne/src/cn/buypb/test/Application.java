@@ -16,6 +16,10 @@ public class Application {
 		
 		
 		System.out.println("bug 003");
+		
+		
+		System.out.println("tag 001");
+		
 	}
 
 }
