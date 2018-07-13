@@ -15,7 +15,7 @@ public class Application {
 		System.out.println("push 04");
 		
 		
-		
+		System.out.println("bug 003");
 	}
 
 }
