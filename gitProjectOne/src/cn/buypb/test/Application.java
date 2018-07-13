@@ -29,6 +29,8 @@ public class Application {
 		
 		System.out.println("push 07");
 		
+		System.out.println("tag 003");
+		
 	}
 
 }
