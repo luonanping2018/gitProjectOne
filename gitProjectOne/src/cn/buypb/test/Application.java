@@ -10,7 +10,7 @@ public class Application {
 		
 		System.out.println("push 02");
 		
-		
+		System.out.println("push 03");
 		
 		
 		
