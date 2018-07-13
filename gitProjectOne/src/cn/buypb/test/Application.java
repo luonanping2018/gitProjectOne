@@ -6,7 +6,7 @@ public class Application {
 		
 		System.out.println("*******************");
 		
-		
+		System.out.println("push 01");
 		
 		
 		
