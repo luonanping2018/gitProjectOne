@@ -8,6 +8,8 @@ public class Application {
 		
 		System.out.println("push 01");
 		
+		System.out.println("push 02");
+		
 		
 		
 		
