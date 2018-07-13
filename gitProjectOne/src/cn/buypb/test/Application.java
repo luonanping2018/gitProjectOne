@@ -20,6 +20,15 @@ public class Application {
 		
 		System.out.println("tag 001");
 		
+		System.out.println("tag 002");
+		
+		
+		System.out.println("push 05");
+		
+		System.out.println("push 06");
+		
+		System.out.println("push 07");
+		
 	}
 
 }
