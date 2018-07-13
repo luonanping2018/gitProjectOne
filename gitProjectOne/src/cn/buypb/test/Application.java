@@ -12,6 +12,8 @@ public class Application {
 		
 		System.out.println("push 03");
 		
+		System.out.println("push 04");
+		
 		
 		
 	}
